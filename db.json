@@ -1,0 +1,68 @@
+{
+  "projects": [
+    {
+      "name": "Projeto teste 4",
+      "budget": "15000",
+      "category": {
+        "id": "1",
+        "name": "Infra"
+      },
+      "cost": 300,
+      "services": [
+        {
+          "name": "teste",
+          "cost": "100",
+          "description": "teste",
+          "id": "115d764c-8dc1-4d8c-802a-3003f53e1d01"
+        },
+        {
+          "name": "test3",
+          "cost": "100",
+          "description": "test3",
+          "id": "e29502c5-709c-4e23-bfad-49aca334fcbd"
+        }
+      ],
+      "id": 7
+    },
+    {
+      "name": "Projeto teste 6",
+      "budget": "4000",
+      "category": {
+        "id": "1",
+        "name": "Infra"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 9
+    },
+    {
+      "name": "Projeto teste 7",
+      "budget": "100000",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 10
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Infra"
+    },
+    {
+      "id": 2,
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": 3,
+      "name": "Design"
+    },
+    {
+      "id": 4,
+      "name": "Planejamento"
+    }
+  ]
+}
