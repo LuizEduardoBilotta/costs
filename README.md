@@ -4,8 +4,10 @@
 
 <h2 align="center">Costs</h2>
 <p> 
-  O <strong>Costs</strong> é uma plataforma para gerenciamento de custos de projetos de tecnologia (POC) desenvolvida durante o curso para aprendizado de <strong>React</strong> do [@Matheus Battisti](https://www.youtube.com/watch?v=FXqX7oof0I4&list=PLnDvRpP8BneyVA0SZ2okm-QBojomniQVO).
+  O <strong>Costs</strong> é uma plataforma para gerenciamento de custos de projetos de tecnologia (POC) desenvolvida durante o curso para aprendizado de <strong>React</strong> do <strong>@Matheus Battisti<strong>.
 </p>
+
+[_Link do Curso no youtube_](https://www.youtube.com/watch?v=FXqX7oof0I4&list=PLnDvRpP8BneyVA0SZ2okm-QBojomniQVO)
 
 ## :dart: Índice
 
